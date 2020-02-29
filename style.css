@@ -1,0 +1,14 @@
+button{
+    border: none;
+    border-radius: 7px;
+    padding: 9px 15px;
+    color: antiquewhite;
+    background-color: black;
+    cursor: pointer;
+}
+.bg{
+    background-color: lightcyan;
+}
+.navbar{
+    border-radius: 10px;
+}
