@@ -27,9 +27,14 @@ button{
 }
 .Categories{
     text-align: center;
+    border-bottom: 7px solid;
+    border-image: linear-gradient( to right, goldenrod, rgb(248, 121, 3)) ;
+    border-image-slice: 1;
+    width: max-content;
 }
 .category-iteam{
-    border-radius: 20px;    
+    border-radius: 20px;
+    cursor: pointer;    
 }
 footer{
     text-align: center;
