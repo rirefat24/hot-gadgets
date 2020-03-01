@@ -1,3 +1,6 @@
+.container{
+    margin-bottom: 100px;
+}
 button{
     border: none;
     border-radius: 7px;
@@ -11,4 +14,23 @@ button{
 }
 .navbar{
     border-radius: 10px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightslategray;
+    text-align: center;
+}
+.see-all{
+    color: goldenrod;
+    font-weight: bold;
+    cursor: pointer;
+}
+.Categories{
+    text-align: center;
+}
+.category-iteam{
+    border-radius: 20px;    
+}
+footer{
+    text-align: center;
 }
